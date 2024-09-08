@@ -13,7 +13,7 @@ The primary goal of this project is to create a structured approach to replicati
 
 
 ## Requirements
-Python 3.7+
-PyTorch
-NumPy
-Matplotlib (for visualizations)
+- Python 3.7+
+- PyTorch
+- NumPy
+- Matplotlib (for visualizations)
